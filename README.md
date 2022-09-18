@@ -1,5 +1,5 @@
 # Book-library
-It is a basic project on books in which you can get books and their details by their names. It is made using ReactJs<br><br><br>
+It is a basic project on books in which you can get books and their details by their names. It is made using ReactJs. some of ss from the projects are attached below.<br><br><br>
 
 
 ![Screenshot_2022-09-18_06-47-29](https://user-images.githubusercontent.com/96379277/190898783-27b87606-afdf-491d-8a61-4ea80488e01f.png)<br><br>
